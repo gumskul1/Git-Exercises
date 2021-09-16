@@ -1,4 +1,9 @@
+main
 lion
 tiger white
+
+lion red
+tiger
+main
 leopard
 turtle
