@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-lion white
-tiger black
-=======
-lion green
-tiger
->>>>>>> 433e5621760d55a8031dc5c4ce135bfc1a7f4430
-leopard
-turtle
